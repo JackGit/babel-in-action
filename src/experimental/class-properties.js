@@ -1,3 +1,4 @@
+/*
 class Bork {
   //Property initializer syntax
   instanceProperty = "bork";
@@ -22,3 +23,4 @@ console.log(myBork.boundFunction.call(undefined)); // > "bork"
 
 //Static function exists on the class.
 console.log(Bork.staticFunction()); // > "babelIsCool"
+*/
