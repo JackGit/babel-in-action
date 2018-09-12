@@ -1,5 +1,11 @@
-import './arrow-function';
-import './class';
-import './computed-property';
-import './spread';
-import './template-string';
+'use strict';
+
+require('./arrow-function');
+
+require('./class');
+
+require('./computed-property');
+
+require('./spread');
+
+require('./template-string');

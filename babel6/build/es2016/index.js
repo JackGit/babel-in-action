@@ -1,1 +1,3 @@
-import './exponentiation-operator';
+'use strict';
+
+require('./exponentiation-operator');

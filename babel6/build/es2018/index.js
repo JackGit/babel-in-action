@@ -1,1 +1,3 @@
-import './object-rest-spread';
+'use strict';
+
+require('./object-rest-spread');

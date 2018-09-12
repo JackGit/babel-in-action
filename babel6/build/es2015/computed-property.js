@@ -1,3 +1,5 @@
+'use strict';
+
 const computedProperties = () => {
   const name = 'x';
   return {

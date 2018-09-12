@@ -1,1 +1,3 @@
-import './async-to-generator';
+'use strict';
+
+require('./async-to-generator');
